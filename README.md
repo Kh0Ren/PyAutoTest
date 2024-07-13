@@ -1,0 +1,2 @@
+# PyAutoTest
+Study to autotest
